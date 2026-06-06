@@ -114,8 +114,8 @@
 ## Connect
 
 <div align="center">
-  <a href="https://github.com/CowboyGH">
-    <img src="https://img.shields.io/badge/GitHub-CowboyGH-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/denis-kochergin/">
+    <img src="https://img.shields.io/badge/LinkedIn-denis--kochergin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:cowboycloud@icloud.com">
     <img src="https://img.shields.io/badge/Email-cowboycloud%40icloud.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
