@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Ryan Delaney</h1>
+  <h1>Denis Kochergin</h1>
   <p><strong>@CowboyGH</strong> · Flutter / Dart · Mobile Products</p>
   <p>Building polished mobile experiences with clean architecture, reusable foundations, and production-ready flows.</p>
   <p>
