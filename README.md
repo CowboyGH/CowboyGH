@@ -104,15 +104,6 @@
 ## Contribution Snapshot
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=CowboyGH&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=54D1FF&text_color=C9D1D9&icon_color=54D1FF&ring_color=54D1FF&rank_icon=percentile&include_all_commits=true"
-    alt="Ryan Delaney GitHub stats"
-  />
-</div>
-
-<br/>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CowboyGH/CowboyGH/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CowboyGH/CowboyGH/output/github-contribution-grid-snake.svg" />
